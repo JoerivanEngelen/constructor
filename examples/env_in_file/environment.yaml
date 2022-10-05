@@ -1,0 +1,6 @@
+name: external_env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - conda
