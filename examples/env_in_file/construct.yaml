@@ -1,0 +1,8 @@
+name: env_in_file
+version: X
+installer_type: all
+
+channels:
+  - https://conda.anaconda.org/conda-forge/
+
+environment_file: environment.yaml
